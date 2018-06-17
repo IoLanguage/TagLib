@@ -39,7 +39,7 @@ t save
 ```
 
 # Installation
-`taglib` should be installed and foundable in your system. Then:
+[`TagLib`](http://taglib.org) should be installed and foundable in your system. Then:
 ```
 eerie install https://github.com/IoLanguage/TagLib.git
 ```
