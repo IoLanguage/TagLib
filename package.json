@@ -1,0 +1,15 @@
+{
+  "name":         "TagLib",
+  "version":      "0.1",
+  "description":  "Used to set meta data tags on the following audio formats: ape, flac, mp3, mpc, mpeg, ogg.",
+  "author":       "Steve Dekorte",
+  "website":      "http://iolanguage.org/",
+  "readme":       "README.md",
+  "protos":       ["TagLib"],
+  "dependencies": {
+    "libs":     ["tag_c"],
+    "headers":  ["taglib/tag_c.h"],
+    "protos":   [],
+    "packages": []
+  }
+}
